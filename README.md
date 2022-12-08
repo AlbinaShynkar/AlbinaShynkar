@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @AlbinaShynkar
-- 👀 I’m interested in backend and frontend development, cryptography, projects with arduino and raspberry pi, game modelling and development.
-- 🌱 I’m currently learning artificial intelligence and cyber security, software systems at University of Twente.
+- 👀 I’m interested in backend and frontend development, cryptography, projects with arduino and raspberry pi, game design and development.
+- 🎓 I’m currently finishing bachelor's degree in Computer Science in University of Twente. 
+- 👩‍💻 For the last half a year I'm investigation IoT and Smart Spaces
 - 📫 How to reach me: 1albisha2001@gmail.com.
