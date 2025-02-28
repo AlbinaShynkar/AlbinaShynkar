@@ -1,4 +1,5 @@
 
+![Albina Shynkar](https://github.com/user-attachments/assets/592baeb3-d946-47d1-af2a-89a8337515ba)
 
 - 👋 Hi, I’m @AlbinaShynkar
 - 👀 I’m interested in frontend and backend development, UI/UX and design, music and travel.
