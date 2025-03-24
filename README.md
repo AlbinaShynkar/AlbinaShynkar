@@ -1,10 +1,10 @@
 <h1 align="left">🙋‍♀️ Hi, I’m Albina Shynkar </h1>
 
-<p align="left">👩‍💻 Passionate frontend developer from Ukraine </p>
+<p align="left">👩‍💻 Frontend developer from Ukraine </p>
 
 <h2 align="left">About me </h2>
 
-<p align="left">👀 I’m interested in frontend and backend development, UI/UX and design, music and travel </p>
+<p align="left">👀 I’m passionate about frontend and backend development, UI/UX and design, music and travel </p>
 <p align="left">🎓 Obtained bachelor's degree in Technical Computer Science in University of Twente </p>
 <p align="left">👩‍💻 Working as a Frontend Developer at Wehkamp </p>
 
