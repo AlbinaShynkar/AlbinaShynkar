@@ -2,24 +2,24 @@
 
 - 📫 How to reach me: 1albisha2001@gmail.com.
 
-<h1 align="left">👋 Hi, I’m @AlbinaShynkar </h1>
+<h1 align="left">🙋‍♀️ Hi, I’m Albina Shynkar </h1>
 
 ###
 
-<p align="left">🙋‍♀️ Passionate frontend developer from Ukraine</p>
+<p align="left">👩‍💻 Passionate frontend developer from Ukraine</p>
 
 ###
 
 <h2 align="left">About me</h2>
 
 ###
-<p align="left">👀 I’m interested in frontend and backend development, UI/UX and design, music and travel. </p>
-<p align="left">🎓 Obtained bachelor's degree in Technical Computer Science in University of Twente. </p>
-<p align="left">👩‍💻 Working as a Frontend Developer at Wehkamp. </p>
+<p align="left">👀 I’m interested in frontend and backend development, UI/UX and design, music and travel </p>
+<p align="left">🎓 Obtained bachelor's degree in Technical Computer Science in University of Twente </p>
+<p align="left">👩‍💻 Working as a Frontend Developer at Wehkamp </p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">💻 I code with :</h2>
 
 ###
 
@@ -91,24 +91,14 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
-<div align="center">
-<img src="[https://streak-stats.demolab.com?user=AlbinaShynkar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3](https://streak-stats.demolab.com/?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)" height="220" alt="streak graph"  />
-</div>
-
-### 
+###
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AlbinaShynkar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlbinaShynkar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
 
