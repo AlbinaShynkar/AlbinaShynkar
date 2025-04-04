@@ -1,8 +1,8 @@
 <h1 align="left">🙋‍♀️ Hi, I’m Albina Shynkar </h1>
 
-<p align="left">👩‍💻 Frontend developer from Ukraine </p>
+<p align="left">Frontend developer from Ukraine </p>
 
-<h2 align="left">About me </h2>
+<h2 align="left">👩‍💻 About me </h2>
 
 <p align="left">👀 I’m passionate about frontend and backend development, UI/UX and design, music and travel </p>
 <p align="left">🎓 Obtained bachelor's degree in Technical Computer Science in University of Twente </p>
@@ -80,12 +80,20 @@
 
 ###
 
-<h3 align="left">🔥 My Stats </h3>
+<h2 align="left">🔥 My Stats </h2>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlbinaShynkar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AlbinaShynkar&show_icons=true&count_private=true&hide_border=true" style="width: 100%;" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbinaShynkar&hide_border=true&layout=compact" style="width: 100%;" />
+    </td>
+  </tr>
+</table>
+  
 
-<h2 align="left">Contact</h2>
+<h2 align="left">📩 Contact</h2>
 
-<p align="left">📫 How to reach me: 1albisha2001@gmail.com </p>
+<p align="left">How to reach me: 1albisha2001@gmail.com </p>
