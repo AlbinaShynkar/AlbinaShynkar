@@ -79,19 +79,6 @@
 </div>
 
 ###
-
-<h2 align="left">🔥 My Stats </h2>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AlbinaShynkar&show_icons=true&count_private=true&hide_border=true" style="width: 100%;" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbinaShynkar&hide_border=true&layout=compact" style="width: 100%;" />
-    </td>
-  </tr>
-</table>
   
 
 <h2 align="left">📩 Contact</h2>
