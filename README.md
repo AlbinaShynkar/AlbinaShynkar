@@ -4,7 +4,7 @@
 
 <h2 align="left">👩‍💻 About me </h2>
 
-<p align="left">👀 I’m passionate about frontend and backend development, UI/UX and design, music and travel </p>
+<p align="left">👀 I’m passionate about frontend development, UI/UX and design, music, art and travel </p>
 <p align="left">🎓 Obtained bachelor's degree in Technical Computer Science in University of Twente </p>
 <p align="left">👩‍💻 Working as a Frontend Developer at Wehkamp </p>
 
@@ -60,6 +60,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="40" alt="playwright logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
